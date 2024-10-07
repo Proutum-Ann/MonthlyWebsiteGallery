@@ -1,3 +1,3 @@
-ul.dropdown-menu {
+ul.dropdown-menu, ul.navbar-nav, li.dropdown, div.navbar-collapse, div#navbarText {
     text-align: right!important;
 }
