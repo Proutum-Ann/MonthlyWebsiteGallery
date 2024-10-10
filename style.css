@@ -35,7 +35,7 @@ a.dropdown-item:hover {
     color: #bb4500;
     animation: button-hover;
     animation-iteration-count: 1;
-    animation-duration: .5s;
+    animation-duration: .3s;
     border: dotted 5px #fffcf1;
 }
 
@@ -84,6 +84,11 @@ p, a.dropdown-item {
     font-family: "census-variable", sans-serif;
     font-variation-settings: "CAPH" 100;
     font-size: 20px
+}
+
+p#intro-para {
+    font-family: "ivysoft-variable", sans-serif;
+    font-weight: bold;
 }
 
 a.dropdown-toggle {
